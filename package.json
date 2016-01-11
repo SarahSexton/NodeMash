@@ -1,9 +1,21 @@
 {
+<<<<<<< HEAD
   "name": "socket-chat-example",
   "version": "0.0.1",
   "description": "My first socket.io app",
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.3.6"
+=======
+  "name": "NodeMash-chat-example",
+  "version": "0.0.1",
+  "description": "NodeMash Challenge Node.js & Socket.io app",
+  "author": {
+    "name": "YOUR_INFO"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7"
+>>>>>>> 9b029550ad6a8b78ae6709bea76fe2829eeec870
   }
 }

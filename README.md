@@ -99,4 +99,4 @@ You can find additional resources and information about Azure deployments [here]
 
 If you would like some help creating your site, or are looking for ideas, come by the Microsoft booth, or shoot us a tweet: 
 
-Sarah Sexton [@Saelia](https://twitter.com/Saelia) | David Washington [@dwcares](https://twitter.com/dwcares)
+Sarah Sexton [@Saelia](https://twitter.com/Saelia) | David Washington [@dwcares](https://twitter.com/dwcares
